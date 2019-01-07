@@ -2,7 +2,7 @@
 
 ## Description
 
-In this lab 0, I have edited a printf statement of the hello.c file so that it would print my name. 
+In this lab 0, I (Yongjeong Kim) have edited a printf statement of the hello.c file so that it would print my name. 
 
 
 
